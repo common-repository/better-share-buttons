@@ -1,0 +1,86 @@
+.better_share_buttons.bsb-style-floating{
+	display: flex;
+	flex-wrap: wrap;
+	gap: var(--bsb-my) var(--bsb-mx);
+}
+body:not(.wp-admin) .better_share_buttons.bsb-style-floating{
+	position: fixed;
+	z-index: 9999;
+}
+.better_share_buttons.bsb-style-floating a{
+	display: inline-flex;
+	align-items: center;
+	padding: var(--bsb-py) var(--bsb-px);
+	background: var(--bsb-color);
+	border: none;
+	border-radius: var(--bsb-br);
+	font-size: var(--bsb-fz);
+	color: #fff;
+	text-decoration: none;
+}
+.better_share_buttons.bsb-style-floating a.copied path{
+	fill: #bbd700
+}
+.better_share_buttons.bsb-style-floating a span{
+	display: block;
+	padding: 0 var(--bsb-lrs) 0 var(--bsb-lls)
+}
+.better_share_buttons.bsb-style-floating svg{
+	width: auto;
+	height: var(--bsb-iz);
+	stroke: none;
+	fill: #fff
+}
+.better_share_buttons.bsb-style-floating .better_share_buttons.bsb-style-floating_more{
+	display: none
+}
+.better_share_buttons.bsb-style-floating.limited .better_share_buttons.bsb-style-floating_more{
+	display: inline-flex
+}
+.better_share_buttons.bsb-style-floating.limited .better_share_buttons.bsb-style-floating_more ~ a{
+	display: none
+}
+@media(max-width:979px){
+	.better_share_buttons.bsb-style-floating a span{
+		display: none
+	}
+}
+@media (min-width:768px){
+	body:not(.wp-admin) .better_share_buttons.bsb-style-floating{
+		top: 50%;
+		transform: translateY(-50%);
+		left: 0
+	}
+	.better_share_buttons.bsb-style-floating{
+		flex-direction: column;
+		align-items: flex-start
+	}
+	.better_share_buttons.bsb-style-floating a{
+		padding: var(--bsb-py) var(--bsb-px);
+		transition: padding .3s ease;
+		will-change: padding
+	}
+	.better_share_buttons.bsb-style-floating a:hover{
+		padding: var(--bsb-py) calc(2 * var(--bsb-px));
+	}
+}
+@media (max-width:767px){
+	.better_share_buttons.bsb-style-floating{
+		bottom: 0;
+		left: 0;
+		right: 0;
+		flex-wrap: nowrap
+	}
+	.better_share_buttons.bsb-style-floating a{
+		flex-shrink: 0;
+		width: 100%;
+		max-width: 100%;
+		flex: 1 0 0%;
+		justify-content: center
+	}
+}
+@media print{
+	.better_share_buttons.bsb-style-floating{
+		display: none
+	}
+}

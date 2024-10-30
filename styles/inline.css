@@ -1,0 +1,53 @@
+.better_share_buttons.bsb-style-inline{
+	display: flex;
+	flex-wrap: wrap;
+	gap: var(--bsb-my) var(--bsb-mx);
+}
+.better_share_buttons.bsb-style-inline a{
+	display: inline-flex;
+	align-items: center;
+	padding: var(--bsb-py) var(--bsb-px);
+	background: var(--bsb-color);
+	border: none;
+	border-radius: var(--bsb-br);
+	font-size: var(--bsb-fz);
+	color: #fff;
+	text-decoration: none;
+	transform: translateY(0px);
+	transition: transform .3s ease;
+}
+.better_share_buttons.bsb-style-inline a:hover{
+	transform: translateY(-2px)
+}
+.better_share_buttons.bsb-style-inline a.copied path{
+	fill: #bbd700
+}
+.better_share_buttons.bsb-style-inline a span{
+	display: block;
+	padding: 0 var(--bsb-lrs) 0 var(--bsb-lls);
+}
+.better_share_buttons.bsb-style-inline svg{
+	width: auto;
+	height: var(--bsb-iz);
+	stroke: none;
+	fill: #fff;
+}
+.better_share_buttons.bsb-style-inline .better_share_buttons_more{
+	display: none
+}
+.better_share_buttons.bsb-style-inline.limited .better_share_buttons_more{
+	display: inline-flex
+}
+.better_share_buttons.bsb-style-inline.limited .better_share_buttons_more ~ a{
+	display: none
+}
+@media(max-width: 979px){
+	.better_share_buttons.bsb-style-inline a span{
+		display: none
+	}
+}
+@media print{
+	.better_share_buttons.bsb-style-inline{
+		display: none
+	}
+}

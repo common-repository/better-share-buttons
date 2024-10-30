@@ -1,0 +1,43 @@
+.better_share_buttons.bsb-style-unicolor-list{
+	display: flex;
+	flex-direction: column;
+	gap: var(--bsb-my) var(--bsb-mx);
+}
+.better_share_buttons.bsb-style-unicolor-list a{
+	display: inline-flex;
+	align-items: center;
+	padding: var(--bsb-py) var(--bsb-px);
+	font-size: var(--bsb-fz);
+	color: #141414;
+	text-decoration: none;
+}
+.better_share_buttons.bsb-style-unicolor-list a.copied path{
+	fill: #141414
+}
+.better_share_buttons.bsb-style-unicolor-list a span{
+	display: block;
+	padding: 0 var(--bsb-lrs) 0 var(--bsb-lls);
+	transition: padding-left .2s ease;
+}
+.better_share_buttons.bsb-style-unicolor-list a:hover span{
+	padding-left: calc( var(--bsb-lls) + 2px );
+}
+.better_share_buttons.bsb-style-unicolor-list svg{
+	width: var(--bsb-iz);
+	height: var(--bsb-iz);
+	stroke: none;
+	fill: #707070;
+	transition: fill .2s ease;
+}
+.better_share_buttons.bsb-style-unicolor-list a:hover svg{
+	fill: #141414;
+}
+.better_share_buttons.bsb-style-unicolor-list .better_share_buttons_more{
+	display: none
+}
+.better_share_buttons.bsb-style-unicolor-list.limited .better_share_buttons_more{
+	display: inline-flex
+}
+.better_share_buttons.bsb-style-unicolor-list.limited .better_share_buttons_more ~ a{
+	display: none
+}

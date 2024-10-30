@@ -1,0 +1,59 @@
+.better_share_buttons.bsb-style-inline-squares{
+	display: flex;
+	flex-wrap: wrap;
+	gap: var(--bsb-my) var(--bsb-mx);
+}
+.better_share_buttons.bsb-style-inline-squares a{
+	display: inline-flex;
+	align-items: center;
+	padding: var(--bsb-py) var(--bsb-px);
+	background: var(--bsb-color);
+	border: none;
+	border-radius: var(--bsb-br);
+	font-size: var(--bsb-fz);
+	color: #fff;
+	text-decoration: none;
+	transform: translateY(0px);
+	transition: transform .3s ease;
+}
+.better_share_buttons.bsb-style-inline-squares a[data-network="email"]{
+	background: #000;
+}
+.better_share_buttons.bsb-style-inline-squares a[data-network="copylink"]{
+	background: #D9D9D9;
+}
+.better_share_buttons.bsb-style-inline-squares a[data-network="copylink"] path{
+	fill: #000;
+}
+.better_share_buttons.bsb-style-inline-squares a:hover{
+	transform: translateY(-2px)
+}
+.better_share_buttons.bsb-style-inline-squares a span{
+	display: block;
+	padding: 0 var(--bsb-lrs) 0 var(--bsb-lls);
+}
+.better_share_buttons.bsb-style-inline-squares svg{
+	width: auto;
+	height: var(--bsb-iz);
+	stroke: none;
+	fill: #fff;
+}
+.better_share_buttons.bsb-style-inline-squares .better_share_buttons_more{
+	display: none
+}
+.better_share_buttons.bsb-style-inline-squares.limited .better_share_buttons_more{
+	display: inline-flex
+}
+.better_share_buttons.bsb-style-inline-squares.limited .better_share_buttons_more ~ a{
+	display: none
+}
+@media(max-width: 979px){
+	.better_share_buttons.bsb-style-inline-squares a span{
+		display: none
+	}
+}
+@media print{
+	.better_share_buttons.bsb-style-inline-squares{
+		display: none
+	}
+}

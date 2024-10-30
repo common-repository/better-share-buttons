@@ -1,0 +1,1020 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: better-share-buttons\n"
+"POT-Creation-Date: 2021-07-14 22:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: KubiQ <info@kubiq.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;_n;_nx;_n_noop;"
+"_nx_noop;_ex\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ./..\n"
+"Language: "
+
+#: better-share-buttons.php:209
+msgctxt "backend"
+msgid "* drag & drop to reorder"
+msgstr ""
+
+#: better-share-buttons.php:211
+msgctxt "backend"
+msgid "* hover and click on X to remove"
+msgstr ""
+
+#: better-share-buttons.php:256
+msgctxt "backend"
+msgid "* labels are automatically hidden on mobile devices"
+msgstr ""
+
+#: better-share-buttons.php:132 better-share-buttons.php:133
+#: better-share-buttons.php:194
+msgctxt "backend"
+msgid "Better Share Buttons"
+msgstr ""
+
+#: better-share-buttons.php:275
+msgctxt "backend"
+msgid "Button horizontal inner spacing"
+msgstr ""
+
+#: better-share-buttons.php:238
+msgctxt "backend"
+msgid "Button horizontal spacing"
+msgstr ""
+
+#: better-share-buttons.php:308
+msgctxt "backend"
+msgid "Button icon size"
+msgstr ""
+
+#: better-share-buttons.php:297
+msgctxt "backend"
+msgid "Button radius"
+msgstr ""
+
+#: better-share-buttons.php:286
+msgctxt "backend"
+msgid "Button vertical inner spacing"
+msgstr ""
+
+#: better-share-buttons.php:264
+msgctxt "backend"
+msgid "Button vertical spacing"
+msgstr ""
+
+#: better-share-buttons.php:232
+msgctxt "backend"
+msgid "Desgin"
+msgstr ""
+
+#: better-share-buttons.php:353
+msgctxt "backend"
+msgid "hide icons"
+msgstr ""
+
+#: better-share-buttons.php:358
+msgctxt "backend"
+msgid "hide labels"
+msgstr ""
+
+#: better-share-buttons.php:223
+msgctxt "backend"
+msgid "How many buttons should be visible before \"More...\" button?"
+msgstr ""
+
+#: better-share-buttons.php:319
+msgctxt "backend"
+msgid "Label font size"
+msgstr ""
+
+#: better-share-buttons.php:330
+msgctxt "backend"
+msgid "Label left spacing"
+msgstr ""
+
+#: better-share-buttons.php:341
+msgctxt "backend"
+msgid "Label right spacing"
+msgstr ""
+
+#: better-share-buttons.php:198
+msgctxt "backend"
+msgid "Put this shortcode wherever you want to see these social share buttons:"
+msgstr ""
+
+#: better-share-buttons.php:204
+msgctxt "backend"
+msgid "Search and add"
+msgstr ""
+
+#: better-share-buttons.php:206
+msgctxt "backend"
+msgid "Search for social networks..."
+msgstr ""
+
+#: better-share-buttons.php:93 better-share-buttons.php:95
+msgctxt "frontend"
+msgid "More..."
+msgstr ""
+
+#: networks.php:83
+msgctxt "network"
+msgid "100zakladok"
+msgstr ""
+
+#: networks.php:89
+msgctxt "network"
+msgid "Adfty"
+msgstr ""
+
+#: networks.php:95
+msgctxt "network"
+msgid "Adifni"
+msgstr ""
+
+#: networks.php:101
+msgctxt "network"
+msgid "ADV QR"
+msgstr ""
+
+#: networks.php:107
+msgctxt "network"
+msgid "Amazon"
+msgstr ""
+
+#: networks.php:113
+msgctxt "network"
+msgid "Amen Me!"
+msgstr ""
+
+#: networks.php:119
+msgctxt "network"
+msgid "AOL Lifestream"
+msgstr ""
+
+#: networks.php:125
+msgctxt "network"
+msgid "AOL Mail"
+msgstr ""
+
+#: networks.php:131
+msgctxt "network"
+msgid "APSense"
+msgstr ""
+
+#: networks.php:137
+msgctxt "network"
+msgid "Atavi"
+msgstr ""
+
+#: networks.php:143
+msgctxt "network"
+msgid "Baidu"
+msgstr ""
+
+#: networks.php:149
+msgctxt "network"
+msgid "Balatarin"
+msgstr ""
+
+#: networks.php:155
+msgctxt "network"
+msgid "Beat100"
+msgstr ""
+
+#: networks.php:161
+msgctxt "network"
+msgid "Bit.ly"
+msgstr ""
+
+#: networks.php:167
+msgctxt "network"
+msgid "BizSugar"
+msgstr ""
+
+#: networks.php:173
+msgctxt "network"
+msgid "Bland takkinn"
+msgstr ""
+
+#: networks.php:179
+msgctxt "network"
+msgid "Blogger"
+msgstr ""
+
+#: networks.php:185
+msgctxt "network"
+msgid "Blogmarks"
+msgstr ""
+
+#: networks.php:191
+msgctxt "network"
+msgid "Bobrdobr"
+msgstr ""
+
+#: networks.php:197
+msgctxt "network"
+msgid "BonzoBox"
+msgstr ""
+
+#: networks.php:203
+msgctxt "network"
+msgid "Bookmarky.cz"
+msgstr ""
+
+#: networks.php:209
+msgctxt "network"
+msgid "Bookmerken"
+msgstr ""
+
+#: networks.php:215
+msgctxt "network"
+msgid "Box"
+msgstr ""
+
+#: networks.php:221
+msgctxt "network"
+msgid "Buffer"
+msgstr ""
+
+#: networks.php:227
+msgctxt "network"
+msgid "Camyoo"
+msgstr ""
+
+#: networks.php:233
+msgctxt "network"
+msgid "Care2"
+msgstr ""
+
+#: networks.php:239
+msgctxt "network"
+msgid "CiteULike"
+msgstr ""
+
+#: networks.php:245
+msgctxt "network"
+msgid "Communicate"
+msgstr ""
+
+#: networks.php:251
+msgctxt "network"
+msgid "Copy Link"
+msgstr ""
+
+#: networks.php:257
+msgctxt "network"
+msgid "COSMiQ"
+msgstr ""
+
+#: networks.php:263
+msgctxt "network"
+msgid "CSS Based"
+msgstr ""
+
+#: networks.php:269
+msgctxt "network"
+msgid "Diary.ru"
+msgstr ""
+
+#: networks.php:275
+msgctxt "network"
+msgid "Digg"
+msgstr ""
+
+#: networks.php:281
+msgctxt "network"
+msgid "Diggita"
+msgstr ""
+
+#: networks.php:287
+msgctxt "network"
+msgid "Diigo"
+msgstr ""
+
+#: networks.php:293
+msgctxt "network"
+msgid "Douban"
+msgstr ""
+
+#: networks.php:299
+msgctxt "network"
+msgid "Draugiem.lv"
+msgstr ""
+
+#: networks.php:23
+msgctxt "network"
+msgid "E-Mail"
+msgstr ""
+
+#: networks.php:305
+msgctxt "network"
+msgid "EdCast"
+msgstr ""
+
+#: networks.php:311
+msgctxt "network"
+msgid "Evernote"
+msgstr ""
+
+#: networks.php:317
+msgctxt "network"
+msgid "Exchangle"
+msgstr ""
+
+#: networks.php:323
+msgctxt "network"
+msgid "FabDesign"
+msgstr ""
+
+#: networks.php:5
+msgctxt "network"
+msgid "Facebook"
+msgstr ""
+
+#: networks.php:329
+msgctxt "network"
+msgid "Facenama"
+msgstr ""
+
+#: networks.php:335
+msgctxt "network"
+msgid "Fai Informazione"
+msgstr ""
+
+#: networks.php:341
+msgctxt "network"
+msgid "Fancy"
+msgstr ""
+
+#: networks.php:347
+msgctxt "network"
+msgid "Fashiolista"
+msgstr ""
+
+#: networks.php:353
+msgctxt "network"
+msgid "FAVable"
+msgstr ""
+
+#: networks.php:359
+msgctxt "network"
+msgid "Favoriten"
+msgstr ""
+
+#: networks.php:365
+msgctxt "network"
+msgid "Favoritus"
+msgstr ""
+
+#: networks.php:371
+msgctxt "network"
+msgid "Financial Juice"
+msgstr ""
+
+#: networks.php:377
+msgctxt "network"
+msgid "Flipboard"
+msgstr ""
+
+#: networks.php:383
+msgctxt "network"
+msgid "Folkd"
+msgstr ""
+
+#: networks.php:389
+msgctxt "network"
+msgid "FreeDictionary"
+msgstr ""
+
+#: networks.php:395
+msgctxt "network"
+msgid "GG"
+msgstr ""
+
+#: networks.php:401
+msgctxt "network"
+msgid "Gmail"
+msgstr ""
+
+#: networks.php:407
+msgctxt "network"
+msgid "Go.vn"
+msgstr ""
+
+#: networks.php:413
+msgctxt "network"
+msgid "Google Bookmark"
+msgstr ""
+
+#: networks.php:419
+msgctxt "network"
+msgid "Google Classroom"
+msgstr ""
+
+#: networks.php:425
+msgctxt "network"
+msgid "Google Translate"
+msgstr ""
+
+#: networks.php:59
+msgctxt "network"
+msgid "Hacker News"
+msgstr ""
+
+#: networks.php:431
+msgctxt "network"
+msgid "Hatena"
+msgstr ""
+
+#: networks.php:437
+msgctxt "network"
+msgid "Hedgehogs"
+msgstr ""
+
+#: networks.php:443
+msgctxt "network"
+msgid "historious"
+msgstr ""
+
+#: networks.php:449
+msgctxt "network"
+msgid "Hootsuite"
+msgstr ""
+
+#: networks.php:455
+msgctxt "network"
+msgid "Houzz"
+msgstr ""
+
+#: networks.php:461
+msgctxt "network"
+msgid "HTML Validator"
+msgstr ""
+
+#: networks.php:467
+msgctxt "network"
+msgid "Indexor"
+msgstr ""
+
+#: networks.php:473
+msgctxt "network"
+msgid "Instapaper"
+msgstr ""
+
+#: networks.php:479
+msgctxt "network"
+msgid "iOrbix"
+msgstr ""
+
+#: networks.php:485
+msgctxt "network"
+msgid "Jappy Ticker"
+msgstr ""
+
+#: networks.php:491
+msgctxt "network"
+msgid "Kaixin Repaste"
+msgstr ""
+
+#: networks.php:497
+msgctxt "network"
+msgid "Kakao"
+msgstr ""
+
+#: networks.php:503
+msgctxt "network"
+msgid "Kakao Talk"
+msgstr ""
+
+#: networks.php:509
+msgctxt "network"
+msgid "Ketnooi"
+msgstr ""
+
+#: networks.php:515
+msgctxt "network"
+msgid "Kindle It"
+msgstr ""
+
+#: networks.php:521
+msgctxt "network"
+msgid "Kledy"
+msgstr ""
+
+#: networks.php:527
+msgctxt "network"
+msgid "LiDAR Online"
+msgstr ""
+
+#: networks.php:533
+msgctxt "network"
+msgid "LINE"
+msgstr ""
+
+#: networks.php:35
+msgctxt "network"
+msgid "LinkedIn"
+msgstr ""
+
+#: networks.php:539
+msgctxt "network"
+msgid "Linkuj.cz"
+msgstr ""
+
+#: networks.php:545
+msgctxt "network"
+msgid "LiveJournal"
+msgstr ""
+
+#: networks.php:551
+msgctxt "network"
+msgid "Mail.ru"
+msgstr ""
+
+#: networks.php:557
+msgctxt "network"
+msgid "mar.gar.in"
+msgstr ""
+
+#: networks.php:563
+msgctxt "network"
+msgid "Markme"
+msgstr ""
+
+#: networks.php:569
+msgctxt "network"
+msgid "meinVZ"
+msgstr ""
+
+#: networks.php:575
+msgctxt "network"
+msgid "Memonic"
+msgstr ""
+
+#: networks.php:581
+msgctxt "network"
+msgid "Mendeley"
+msgstr ""
+
+#: networks.php:587
+msgctxt "network"
+msgid "Meneame"
+msgstr ""
+
+#: networks.php:593
+msgctxt "network"
+msgid "Messenger"
+msgstr ""
+
+#: networks.php:599
+msgctxt "network"
+msgid "MIX"
+msgstr ""
+
+#: networks.php:605
+msgctxt "network"
+msgid "Mixi"
+msgstr ""
+
+#: networks.php:611
+msgctxt "network"
+msgid "Moemesto.ru"
+msgstr ""
+
+#: networks.php:617
+msgctxt "network"
+msgid "mRcNEtwORK"
+msgstr ""
+
+#: networks.php:623
+msgctxt "network"
+msgid "Myspace"
+msgstr ""
+
+#: networks.php:629
+msgctxt "network"
+msgid "myVidster"
+msgstr ""
+
+#: networks.php:635
+msgctxt "network"
+msgid "N4G"
+msgstr ""
+
+#: networks.php:641
+msgctxt "network"
+msgid "Nasza-klasa"
+msgstr ""
+
+#: networks.php:647
+msgctxt "network"
+msgid "Netvibes"
+msgstr ""
+
+#: networks.php:653
+msgctxt "network"
+msgid "Netvouz"
+msgstr ""
+
+#: networks.php:659
+msgctxt "network"
+msgid "Newsvine"
+msgstr ""
+
+#: networks.php:665
+msgctxt "network"
+msgid "Nujij"
+msgstr ""
+
+#: networks.php:671
+msgctxt "network"
+msgid "Nurses Lounge"
+msgstr ""
+
+#: networks.php:677
+msgctxt "network"
+msgid "Odnoklassniki"
+msgstr ""
+
+#: networks.php:683
+msgctxt "network"
+msgid "OKNOtizie"
+msgstr ""
+
+#: networks.php:689
+msgctxt "network"
+msgid "OneNote"
+msgstr ""
+
+#: networks.php:695
+msgctxt "network"
+msgid "OpenTheDoor"
+msgstr ""
+
+#: networks.php:701
+msgctxt "network"
+msgid "Outlook"
+msgstr ""
+
+#: networks.php:707
+msgctxt "network"
+msgid "Oyyla"
+msgstr ""
+
+#: networks.php:713
+msgctxt "network"
+msgid "pafnet.de"
+msgstr ""
+
+#: networks.php:719
+msgctxt "network"
+msgid "PDFmyURL"
+msgstr ""
+
+#: networks.php:725
+msgctxt "network"
+msgid "Pinboard"
+msgstr ""
+
+#: networks.php:29
+msgctxt "network"
+msgid "Pinterest"
+msgstr ""
+
+#: networks.php:731
+msgctxt "network"
+msgid "Plurk"
+msgstr ""
+
+#: networks.php:737
+msgctxt "network"
+msgid "Pocket"
+msgstr ""
+
+#: networks.php:743
+msgctxt "network"
+msgid "Posteezy"
+msgstr ""
+
+#: networks.php:77
+msgctxt "network"
+msgid "Print"
+msgstr ""
+
+#: networks.php:749
+msgctxt "network"
+msgid "PrintFriendly"
+msgstr ""
+
+#: networks.php:755
+msgctxt "network"
+msgid "Pusha"
+msgstr ""
+
+#: networks.php:761
+msgctxt "network"
+msgid "QRSrc.com"
+msgstr ""
+
+#: networks.php:767
+msgctxt "network"
+msgid "Quantcast"
+msgstr ""
+
+#: networks.php:773
+msgctxt "network"
+msgid "Qzone"
+msgstr ""
+
+#: networks.php:41
+msgctxt "network"
+msgid "Reddit"
+msgstr ""
+
+#: networks.php:779
+msgctxt "network"
+msgid "Rediff MyPage"
+msgstr ""
+
+#: networks.php:785
+msgctxt "network"
+msgid "Renren"
+msgstr ""
+
+#: networks.php:791
+msgctxt "network"
+msgid "ResearchGate"
+msgstr ""
+
+#: networks.php:797
+msgctxt "network"
+msgid "Safelinking"
+msgstr ""
+
+#: networks.php:803
+msgctxt "network"
+msgid "Scoop.it"
+msgstr ""
+
+#: networks.php:809
+msgctxt "network"
+msgid "Sina Weibo"
+msgstr ""
+
+#: networks.php:815
+msgctxt "network"
+msgid "Skype"
+msgstr ""
+
+#: networks.php:821
+msgctxt "network"
+msgid "Skyrock Blog"
+msgstr ""
+
+#: networks.php:827
+msgctxt "network"
+msgid "Slack"
+msgstr ""
+
+#: networks.php:833
+msgctxt "network"
+msgid "SMS"
+msgstr ""
+
+#: networks.php:839
+msgctxt "network"
+msgid "SodaHead"
+msgstr ""
+
+#: networks.php:845
+msgctxt "network"
+msgid "SpinSnap"
+msgstr ""
+
+#: networks.php:851
+msgctxt "network"
+msgid "Startaid"
+msgstr ""
+
+#: networks.php:857
+msgctxt "network"
+msgid "Startlap"
+msgstr ""
+
+#: networks.php:863
+msgctxt "network"
+msgid "studiVZ"
+msgstr ""
+
+#: networks.php:869
+msgctxt "network"
+msgid "Stuffpit"
+msgstr ""
+
+#: networks.php:875
+msgctxt "network"
+msgid "Stumpedia"
+msgstr ""
+
+#: networks.php:881
+msgctxt "network"
+msgid "Surfingbird"
+msgstr ""
+
+#: networks.php:887
+msgctxt "network"
+msgid "Svejo"
+msgstr ""
+
+#: networks.php:893
+msgctxt "network"
+msgid "Symbaloo"
+msgstr ""
+
+#: networks.php:899
+msgctxt "network"
+msgid "Taringa!"
+msgstr ""
+
+#: networks.php:71
+msgctxt "network"
+msgid "Telegram"
+msgstr ""
+
+#: networks.php:905
+msgctxt "network"
+msgid "Tencent QQ"
+msgstr ""
+
+#: networks.php:911
+msgctxt "network"
+msgid "Tencent Weibo"
+msgstr ""
+
+#: networks.php:917
+msgctxt "network"
+msgid "Trello"
+msgstr ""
+
+#: networks.php:923
+msgctxt "network"
+msgid "Tuenti"
+msgstr ""
+
+#: networks.php:17
+msgctxt "network"
+msgid "Tumblr"
+msgstr ""
+
+#: networks.php:11
+msgctxt "network"
+msgid "Twitter"
+msgstr ""
+
+#: networks.php:929
+msgctxt "network"
+msgid "Typepad"
+msgstr ""
+
+#: networks.php:935
+msgctxt "network"
+msgid "Urlaubswerk"
+msgstr ""
+
+#: networks.php:941
+msgctxt "network"
+msgid "Viadeo"
+msgstr ""
+
+#: networks.php:947
+msgctxt "network"
+msgid "Viber"
+msgstr ""
+
+#: networks.php:953
+msgctxt "network"
+msgid "Virb"
+msgstr ""
+
+#: networks.php:959
+msgctxt "network"
+msgid "Visitez Mon Site"
+msgstr ""
+
+#: networks.php:65
+msgctxt "network"
+msgid "Vkontakte"
+msgstr ""
+
+#: networks.php:965
+msgctxt "network"
+msgid "vKruguDruzei"
+msgstr ""
+
+#: networks.php:971
+msgctxt "network"
+msgid "vybrali SME"
+msgstr ""
+
+#: networks.php:977
+msgctxt "network"
+msgid "Wanelo"
+msgstr ""
+
+#: networks.php:983
+msgctxt "network"
+msgid "Wayback Machine"
+msgstr ""
+
+#: networks.php:989
+msgctxt "network"
+msgid "We Heart It"
+msgstr ""
+
+#: networks.php:995
+msgctxt "network"
+msgid "WebMoney"
+msgstr ""
+
+#: networks.php:1001
+msgctxt "network"
+msgid "WeChat"
+msgstr ""
+
+#: networks.php:53
+msgctxt "network"
+msgid "WhatsApp"
+msgstr ""
+
+#: networks.php:1007
+msgctxt "network"
+msgid "Whois Lookup"
+msgstr ""
+
+#: networks.php:1013
+msgctxt "network"
+msgid "WishMindr"
+msgstr ""
+
+#: networks.php:1019
+msgctxt "network"
+msgid "WordPress"
+msgstr ""
+
+#: networks.php:1025
+msgctxt "network"
+msgid "Wykop"
+msgstr ""
+
+#: networks.php:47
+msgctxt "network"
+msgid "XING"
+msgstr ""
+
+#: networks.php:1031
+msgctxt "network"
+msgid "Yahoo Mail"
+msgstr ""
+
+#: networks.php:1037
+msgctxt "network"
+msgid "Yammer"
+msgstr ""
+
+#: networks.php:1043
+msgctxt "network"
+msgid "Yoolink"
+msgstr ""
+
+#: networks.php:1049
+msgctxt "network"
+msgid "Yummly"
+msgstr ""
+
+#: networks.php:1055
+msgctxt "network"
+msgid "Yuuby"
+msgstr ""
+
+#: networks.php:1061
+msgctxt "network"
+msgid "Zakladok.net"
+msgstr ""
+
+#: networks.php:1067
+msgctxt "network"
+msgid "ZicZac"
+msgstr ""
+
+#. Description of the plugin
+msgid "Share buttons for social networks and more"
+msgstr ""
